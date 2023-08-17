@@ -1,0 +1,68 @@
+/* Reset some default styles and set background color */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  /* Style the header section */
+  header {
+    background-color:#1a1a1a;
+    color: white;
+    text-align: center;
+    padding: 40px  0;
+  }
+  
+  .sub-header {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+
+  /* Style the about section */
+  .about {background-color: #1a1a1a;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Style the accomplishments section */
+  .Projects {
+    background-color: #1a1a1a;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+  
+  .Accomplisments {
+    background-color: #1a1a1a;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+
+
+
+
+  /* Style the footer */
+  footer {
+    text-align: center;
+  padding: 20px 0;
+  }
+
+  
